@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Yash Katore and I'm a Student, from Sangamner</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3BBtCM_2CWFmVGxCCuoFTc&ust=1708449791457000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCp98n1t4QDFQAAAAAdAAAAABAE)"  />
 
 ###
 
