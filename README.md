@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yash Katore and I'm a Student, from Sangamner</h2>
+<h2 align="left">Hi 👋! My name is Yash Katore and I'm a Student,Looking for Interships</h2>
 
 ###
 
